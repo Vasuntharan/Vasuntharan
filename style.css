@@ -1,0 +1,24 @@
+body{
+    background: url("https://media.licdn.com/dms/image/D5612AQFRYL_wlnxNww/article-cover_image-shrink_600_2000/0/1704948932088?e=2147483647&v=beta&t=kC9RNAj3b7zIajftSo5v31flv1uasAGiA7N9uDK7VMA");
+    color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: white;
+}
+h1{
+    color: white;
+    size: 350px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    color: whitesmoke;
+}
+marquee{
+    width: 300px;
+    margin-left:500px ;
+}
+ol{
+    color: white;
+}
